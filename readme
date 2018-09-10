@@ -1,0 +1,9 @@
+The project created in CLION:
+
+to run the programm: use main executable
+to run the tests: use tesing executable
+
+main.cpp - just read input from in.txt and print output to out.txt
+main functionality are in : lex.cpp tokenizer.cpp parser.cpp
+
+my_test.cpp - contains all testcases
